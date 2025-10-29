@@ -1,0 +1,4 @@
+Manzana,0.5,100
+Banana,0.3,150
+Naranja,0.8,200
+Lentejas,0.4,300
