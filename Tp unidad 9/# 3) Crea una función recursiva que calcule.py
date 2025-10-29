@@ -3,7 +3,7 @@
 # 𝑚 = 𝑛 ∗ 𝑛
 # (𝑚−1)
 # . Prueba esta función en un
-# algoritmo general.
+# algoritmo general..
 
 def potencia(base, exponente):
     if exponente == 0:
